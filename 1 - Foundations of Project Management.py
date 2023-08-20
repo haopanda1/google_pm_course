@@ -219,3 +219,73 @@
 # MAGIC | Quality                | Project manager makes plans and clearly defines criteria to measure quality at the beginning of the project.                                                                              | Team solicits ongoing stakeholder input and user feedback by testing products in the field and regularly implementing improvements.                                         |
 # MAGIC | Communication          | Project manager continually communicates progress toward milestones and other key indicators to stakeholders, ensuring that the project is on track to meet the customer’s expectations.  | Team is customer-focused, with consistent communication between users and the project team.                                                                                 |
 # MAGIC | Stakeholders           | Project manager continually manages and monitors stakeholder engagement to ensure the project is on track.                                                                                | Team frequently provides deliverables to stakeholders throughout the project. Progress toward milestones is dependent upon stakeholder feedback.                            |
+
+# COMMAND ----------
+
+# MAGIC %md 
+# MAGIC
+# MAGIC ### Project Management & Organizational Culture
+
+# COMMAND ----------
+
+# MAGIC %md 
+# MAGIC
+# MAGIC #### Organizational Stucture
+# MAGIC - By understanding organizational structure, you can figure out who you should talk to and how frequent you should check in with them. 
+# MAGIC
+# MAGIC #### Organizational Stucture - Classic
+# MAGIC - AKA Top Down or Functional structure 
+# MAGIC - In classic structure, company is divided into department so it also called functional structure
+# MAGIC - The reporting structure is in hierachecal order, and each manager oversees a team with specific functions
+# MAGIC - Project team in classic structure will typically remain in reporting chain but act as its own assembled team
+# MAGIC - <img title="a title" src="https://i1.wp.com/www.differencebetween.com/wp-content/uploads/2019/06/Difference-Between-Classical-and-Neo-Classical-Theory-Figure-1-e1561457225509.png" width=400 height=200>
+# MAGIC
+# MAGIC #### Organizational Stucture - Matrix
+# MAGIC - In Matrix structure, each team lead leads a cross function team. at the same time, each employee have two or more managers
+# MAGIC - As project manager, a team has at least two chains of command / managers. (**the main purpose is to balance the power between project & functional manager**)
+# MAGIC - [*project manager vs functional manager*](https://www.pmi.org/learning/library/matrix-organization-structure-reason-evolution-1837)
+# MAGIC - **Matrix structure focus on strong project oriented approach**
+# MAGIC - <img title="a title" src="https://www.conceptdraw.com/How-To-Guide/picture/matrix-organization-structure/Management-Typical-Orgcharts-Matrix-Org-Chart-Template-1.png" width=400 height=200>
+# MAGIC
+# MAGIC #### Organizational Stucture - Impact to PM 
+# MAGIC - Resource Avaliability: Knowing how to access the people, equipment, and budget
+
+# COMMAND ----------
+
+# MAGIC %md 
+# MAGIC
+# MAGIC #### Organizational Culture
+# MAGIC - the value employee share and company values. 
+# MAGIC - *If you can explain how project fits company's culture and value then you will get more resource from C suits executives*
+# MAGIC - How to know company's culture
+# MAGIC   - Ask questions
+# MAGIC   - observe
+# MAGIC   - understand your impact
+
+# COMMAND ----------
+
+# MAGIC %md 
+# MAGIC
+# MAGIC #### Change Management
+# MAGIC - `Definition`: The process of delivering your completed project and getting people to adopt it
+# MAGIC - Three Cores
+# MAGIC   - `Create a sense of urgency`
+# MAGIC   - `figure out the right combination of skills and personality`
+# MAGIC   - `effective communication`
+# MAGIC
+# MAGIC #### Corporate Governance
+# MAGIC - An organization's set of standards and practices that direct and control its action
+# MAGIC
+# MAGIC #### Steering Committees
+# MAGIC - An internal committee decide on the priorities of an organization and manage the general course of its operation
+# MAGIC
+# MAGIC #### Project Governance
+# MAGIC - It is a framework of how project decision are made. it helps projects running smoothly. 
+# MAGIC - It tells what activities an organization does and who is responsible for those activities
+
+# COMMAND ----------
+
+# MAGIC %md 
+# MAGIC
+# MAGIC #### Corporate Governance
+# MAGIC - definition: An organization's set of standards and practices that direct and control its action
