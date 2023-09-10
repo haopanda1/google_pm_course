@@ -158,3 +158,192 @@
 # MAGIC   - `Critical User Journey / Test Cases`: a series of action user can take to accomplish something
 # MAGIC   - `Edge Cases`: rare outliers that hard to see in developement
 # MAGIC   
+
+# COMMAND ----------
+
+# MAGIC %md 
+# MAGIC
+# MAGIC #####  Continous improvement
+# MAGIC - Data Driven Improveent decision - PDCA 
+# MAGIC   - Plan: Identify root cause and potential solutions of a issue
+# MAGIC   - Do: Fix the issue
+# MAGIC   - Check and Act: 
+# MAGIC
+# MAGIC #####  Projects vs Programs vs Profolio
+# MAGIC - `Project`: is one single focused endeavor
+# MAGIC - `Program`: collection of projects **keeping a project running long term requires a project becomes a program**
+# MAGIC - `Profolio`: collection of projects and programs across the whole company
+# MAGIC
+# MAGIC #####  Retrospective
+# MAGIC - Purposes
+# MAGIC   - Team building
+# MAGIC   - improve colaberation 
+# MAGIC   - promote positive attitude
+
+# COMMAND ----------
+
+# MAGIC %md 
+# MAGIC
+# MAGIC #### Data Informed Decision Making
+# MAGIC
+
+# COMMAND ----------
+
+# MAGIC %md 
+# MAGIC
+# MAGIC ##### Quality Matrics
+# MAGIC - Number of Changes 
+# MAGIC   - Show the number of inconsistancies
+# MAGIC - Number of Issues 
+# MAGIC   - Know and real problem that may affect the project progress
+# MAGIC - Cost of Variance
+# MAGIC   - difference between predicted budget and actual budget
+# MAGIC
+# MAGIC ##### Productivitity Matrics 
+# MAGIC - Number of task / milestones completed
+# MAGIC - On time completion rate
+# MAGIC - Performance Voloctiy
+# MAGIC
+# MAGIC ##### Data & Project 
+# MAGIC - `Signal`: an indication that helps determine the overall health of project
+# MAGIC - Prioritize metrics that stakeholders value & identify area of improvement
+
+# COMMAND ----------
+
+# MAGIC %md 
+# MAGIC
+# MAGIC #### Presentation
+
+# COMMAND ----------
+
+# MAGIC %md 
+# MAGIC
+# MAGIC ##### Make a Good Presentation
+# MAGIC - Clear & Simple Slide 
+# MAGIC - Use TEXT for critical communication 
+# MAGIC - Provide caption for video and audio recording
+# MAGIC - Use high contrast font
+# MAGIC - Share Content In Advance
+
+# COMMAND ----------
+
+# MAGIC %md 
+# MAGIC
+# MAGIC #### Project Team Work
+
+# COMMAND ----------
+
+# MAGIC %md 
+# MAGIC
+# MAGIC ##### Five Factors impact team effectiveness 
+# MAGIC - Psychological Safety 
+# MAGIC   - Take interpersonal action and know concequencies 
+# MAGIC - Dependability
+# MAGIC   - Member are reliable
+# MAGIC - Structure and Clarity
+# MAGIC   - individual's understanding of job expectation
+# MAGIC - Meaning
+# MAGIC   - Sense of purpose in work or result of work
+# MAGIC - Impact 
+# MAGIC
+# MAGIC ##### Build a High Functioning Team
+# MAGIC - Build a system that turns chaos to system
+# MAGIC - Communicating and Listening
+# MAGIC - Empathy 
+# MAGIC - Delegate responsibility
+# MAGIC
+# MAGIC ##### Bruce Tuckman's Stages of Team Development
+# MAGIC - Forming 
+# MAGIC   - everything is nice & excited to get work done
+# MAGIC   - PM should clarify and state the scope of project
+# MAGIC - Storming 
+# MAGIC   - Frustration emerge
+# MAGIC   - PM should focus on conflict resolution, listen to team to address problem, and share insight 
+# MAGIC - Norming 
+# MAGIC   - Conflict is resolved & team is working with each other
+# MAGIC   - PM should codify the team norms and ensure team is aware of norms, and reinforce if needed
+# MAGIC - Performing 
+# MAGIC   - Team work seamlessly
+# MAGIC   - PM should focus on delegating, motivating, and providing feedback to team
+# MAGIC - Adjourning
+# MAGIC   - Project is wraps up 
+# MAGIC   - Team disbands
+# MAGIC
+# MAGIC ##### Inclusive Leadership vs Ethical Leadership
+# MAGIC - Ethical Leadership: create a safe env for team member to voice their concern
+# MAGIC - Inclusive Leadership: create env that encourages team members 
+# MAGIC
+# MAGIC ##### Effective Influncing
+# MAGIC - Establish Credibility: Expertise / Relationships
+# MAGIC - Frame for common ground: How my idea can benifit you
+# MAGIC - Provide evidence
+# MAGIC
+# MAGIC ##### Effective Meeting 
+# MAGIC - Structured 
+# MAGIC - Intentional 
+# MAGIC - Collaberative 
+# MAGIC - Inclusive
+# MAGIC - Factors of Successful Meeting 
+# MAGIC   - Active participant 
+# MAGIC   - Clear and Conceise agenda 
+# MAGIC   - The correct attendees
+# MAGIC
+# MAGIC ##### Types of Meeting   
+# MAGIC - Project Kick-Off
+# MAGIC - Status Update
+# MAGIC - Stakeholders' Review 
+# MAGIC - Project Review
+
+# COMMAND ----------
+
+# MAGIC %md 
+# MAGIC
+# MAGIC #### Clsoe a Project
+
+# COMMAND ----------
+
+# MAGIC %md 
+# MAGIC
+# MAGIC ##### Project Closing 
+# MAGIC - Process performed to formally complete the project and contractual obligations
+# MAGIC
+# MAGIC ##### Never Ending Project & Abandond Project
+# MAGIC - Never Ending Project: 
+# MAGIC   - exists when the project deliverables and tasks cannot be completed
+# MAGIC   - tasks deligate to team with inapproaperte skills 
+# MAGIC - Abandond Project
+# MAGIC   - Final deliverable never make to customer
+# MAGIC
+# MAGIC ##### Checklist of Closiing a Project
+# MAGIC - All work is done 
+# MAGIC - All agreed upon project management process have been executed 
+# MAGIC - Formal recognition from key stakeholders
+# MAGIC
+# MAGIC ##### Closing 1: Close milestone 
+# MAGIC - Refer to prior documentation ensure business goal is accomplished
+# MAGIC   - statement of work
+# MAGIC   - request for proposal 
+# MAGIC   - risk register
+# MAGIC - Put together closing documentation 
+# MAGIC - Conduct admin closure of the procurement process
+# MAGIC - Make sure all stakeholder acknowlege the project close
+# MAGIC
+# MAGIC ##### Closing 2: Entire Project
+# MAGIC - Provide needed documents, tools, and training to use your product
+# MAGIC - Satisfied goal and outcomes reached
+# MAGIC - Stakeholders acceptance
+# MAGIC - Conduct retrospect
+# MAGIC - `Impact Reporting`: presentation that given at the end of project for key stakeholders
+# MAGIC
+# MAGIC ##### Impact Reporting
+# MAGIC - Topics to address 
+# MAGIC   - Improvement in schedule performance 
+# MAGIC   - revenue growth 
+# MAGIC   - ROI 
+# MAGIC   - Cost vs Margin 
+# MAGIC   - Customer satisfication (if appliable)
+# MAGIC - Key Points
+# MAGIC   - Be concise
+# MAGIC   - Use visuals
+# MAGIC   - describe your learning
+# MAGIC   - keep stakeholder involved
