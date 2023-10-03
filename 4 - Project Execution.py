@@ -347,3 +347,18 @@
 # MAGIC   - Use visuals
 # MAGIC   - describe your learning
 # MAGIC   - keep stakeholder involved
+# MAGIC
+# MAGIC ##### Why Closing is Important
+# MAGIC - Create `project close report`
+# MAGIC   - It is a document for project manager him/her self
+# MAGIC   - It document what team did, how they did it, and what they delivered
+# MAGIC   - It provides a evaluation of quality of work
+# MAGIC   - Evaluate project performance related to budget and schedule
+# MAGIC   - Content
+# MAGIC     - Executive summary
+# MAGIC     - Main Acheivement and Overall impact of project
+# MAGIC     - Lession Learned
+# MAGIC     - Open items: What can be better and some idea of improvement
+# MAGIC     - Next steps and future consideration
+# MAGIC     - Project milestone timeline
+# MAGIC     - Resouce (URL) and Links
